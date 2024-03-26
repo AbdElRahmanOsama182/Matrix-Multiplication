@@ -1,6 +1,6 @@
 # Matrix Multiplication (Multi-Threading)
 
-![Matrix Multiplication](assets/MatrixMul.png)
+![Matrix Multiplication](assets/MatMul.png)
 
 
 
