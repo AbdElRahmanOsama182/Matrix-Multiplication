@@ -1,0 +1,6 @@
+Time taken by A thread per matrix: 2 microseconds
+Number of threads: 1
+row=3 col=4
+-1 10 -15 -28 
+-3 -10 15 -36 
+5 -2 -9 -20 
