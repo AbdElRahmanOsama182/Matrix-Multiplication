@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/MatrixMul.dir/home/abdelrahman/Desktop/Matrix-Multiplication/MatrixMul.c.o" -o MatrixMul  -lpthread 
