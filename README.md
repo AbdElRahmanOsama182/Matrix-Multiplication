@@ -1,6 +1,6 @@
 # Matrix Multiplication (Multi-Threading)
 
-![Matrix Multiplication](assets/MatMul.png)
+![Matrix Multiplication](assets/MatrixMul.png)
 
 
 
@@ -22,12 +22,12 @@ The multiplication of two matrices is done using those three methods:
 
 ## Usage
 
-* The program is executed as: ./MatMul Mat1 Mat2 MatOut, where Mat1 and Mat2 are the names of the text files to read the first and second matrices, respectively, and MatOut is the prefix of the text files names to write the output matrices (each file represents one method). If the user does not enter this information, the default is a.txt and b.txt, for input matrixes A and B, and c for output matrices (of all three methods) C. The following example should clarify inputs/outputs files.
+* The program is executed as: ./MatrixMul Mat1 Mat2 MatOut, where Mat1 and Mat2 are the names of the text files to read the first and second matrices, respectively, and MatOut is the prefix of the text files names to write the output matrices (each file represents one method). If the user does not enter this information, the default is a.txt and b.txt, for input matrixes A and B, and c for output matrices (of all three methods) C. The following example should clarify inputs/outputs files.
 
     Arguments
 
         Example: 
-            ./MatMul a b c
+            ./MatrixMul a b c
         Input files: 
             a.txt 
             b.txt
@@ -39,7 +39,7 @@ The multiplication of two matrices is done using those three methods:
     No Arguments:
 
         Example: 
-            ./MatMul
+            ./MatrixMul
         Input files: 
             a.txt 
             b.txt
@@ -51,7 +51,7 @@ The multiplication of two matrices is done using those three methods:
     Custom Arguments:
 
         Example: 
-            ./MatMul x y z
+            ./MatrixMul x y z
         Input files: 
             x.txt 
             y.txt
